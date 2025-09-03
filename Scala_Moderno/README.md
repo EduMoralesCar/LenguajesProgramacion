@@ -22,11 +22,55 @@
 ## Estructura del Proyecto 🗂️
 
 ```
-Scala/
-├── ejemplos/      # Ejemplos básicos y demostraciones
-├── ejercicios/    # Ejercicios prácticos
-├── recursos/      # Documentación y enlaces útiles
-└── README.md      # Información sobre el proyecto Scala
+├── 📁 .git/ 🚫 (auto-hidden)
+├── 📁 Scala_Moderno/
+│   ├── 📁 .bsp/
+│   │   └── 📄 sbt.json
+│   ├── 📁 .idea/ 🚫 (auto-hidden)
+│   ├── 📁 project/
+│   │   ├── 📁 target/ 🚫 (auto-hidden)
+│   │   └── 📄 build.properties
+│   ├── 📁 src/
+│   │   ├── 📁 main/
+│   │   │   └── 📁 scala/
+│   │   │       ├── 📁 Semana01/
+│   │   │       │   ├── 📁 OperacionesConsola/
+│   │   │       │   │   ├── 🖼️ Bucles básicos.png
+│   │   │       │   │   ├── 🖼️ Condicionales.png
+│   │   │       │   │   ├── 🖼️ Definir Variables.png
+│   │   │       │   │   ├── 🖼️ Listas y colecciones básicas.png
+│   │   │       │   │   ├── 🖼️ Operaciones aritméticas.png
+│   │   │       │   │   ├── 🖼️ Operaciones con cadenas.png
+│   │   │       │   │   └── 🖼️ Tipos de datos básicos.png
+│   │   │       │   ├── 🔴 Operaciones.scala
+│   │   │       │   ├── 🔴 Practica01.scala
+│   │   │       │   └── 🔴 Practica02.scala
+│   │   │       └── 📁 Semana02/
+│   │   │           ├── 📁 OperacionesConsola/
+│   │   │           │   ├── 🖼️ Clases básicas.png
+│   │   │           │   ├── 🖼️ Definición de funciones.png
+│   │   │           │   ├── 🖼️ Funciones anónimas.png
+│   │   │           │   ├── 📕 Laboratorio - Funciones Definidas y Anonimas.pdf
+│   │   │           │   ├── 🖼️ Manejo con pattern match.png
+│   │   │           │   ├── 🖼️ Match (switch avanzado).png
+│   │   │           │   ├── 🖼️ Option (manejo de valores nulos).png
+│   │   │           │   ├── 🖼️ Programación funcional.png
+│   │   │           │   └── 🖼️ Trabajando con colecciones.png
+│   │   │           ├── 🔴 Ejemplo01.scala
+│   │   │           ├── 🔴 Ejemplo02.scala
+│   │   │           ├── 🔴 Ejemplo03.scala
+│   │   │           ├── 🔴 FuncionesComplejas.scala
+│   │   │           └── 🔴 FuncionesDefinidas.scala
+│   │   └── 📁 test/
+│   │       └── 📁 scala/
+│   │           └── 📁 com/
+│   │               └── 📁 harthik/
+│   │                   └── 📁 scala/
+│   │                       └── 🔴 Main.scala
+│   ├── 📁 target/ 🚫 (auto-hidden)
+│   ├── 🚫 .gitignore
+│   └── 📄 build.sbt
+└── 📖 README.md
 ```
 
 ---
