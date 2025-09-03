@@ -23,7 +23,7 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 
 ---
 
-👉 Para información detallada, ejemplos y recursos sobre Scala, visita el archivo [`Scala/README.md`](./Scala/README.md).
+👉 Para información detallada, ejemplos y recursos sobre Scala, visita el archivo [`Scala_Moderno/README.md`](./Scala_Moderno/README.md).
 
 ---
 
