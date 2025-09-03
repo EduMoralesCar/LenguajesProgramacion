@@ -1,4 +1,4 @@
-# LenguajesProgramacion
+# Lenguajes de Programación
 
 ¡Bienvenido al repositorio de **Lenguajes de Programación**! 🚀  
 Aquí encontrarás materiales y ejemplos de distintos lenguajes.
