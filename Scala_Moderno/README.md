@@ -23,6 +23,9 @@
 
 ```
 ├── 📁 .git/ 🚫 (auto-hidden)
+├── 📁 .metals/
+│   ├── 📋 metals.log 🚫 (auto-hidden)
+│   └── 🗄️ metals.mv.db
 ├── 📁 Scala_Moderno/
 │   ├── 📁 .bsp/
 │   │   └── 📄 sbt.json
@@ -45,30 +48,37 @@
 │   │   │       │   ├── 🔴 Operaciones.scala
 │   │   │       │   ├── 🔴 Practica01.scala
 │   │   │       │   └── 🔴 Practica02.scala
-│   │   │       └── 📁 Semana02/
-│   │   │           ├── 📁 OperacionesConsola/
-│   │   │           │   ├── 🖼️ Clases básicas.png
-│   │   │           │   ├── 🖼️ Definición de funciones.png
-│   │   │           │   ├── 🖼️ Funciones anónimas.png
-│   │   │           │   ├── 📕 Laboratorio - Funciones Definidas y Anonimas.pdf
-│   │   │           │   ├── 🖼️ Manejo con pattern match.png
-│   │   │           │   ├── 🖼️ Match (switch avanzado).png
-│   │   │           │   ├── 🖼️ Option (manejo de valores nulos).png
-│   │   │           │   ├── 🖼️ Programación funcional.png
-│   │   │           │   └── 🖼️ Trabajando con colecciones.png
-│   │   │           ├── 🔴 Ejemplo01.scala
-│   │   │           ├── 🔴 Ejemplo02.scala
-│   │   │           ├── 🔴 Ejemplo03.scala
-│   │   │           ├── 🔴 FuncionesComplejas.scala
-│   │   │           └── 🔴 FuncionesDefinidas.scala
+│   │   │       ├── 📁 Semana02/
+│   │   │       │   ├── 📁 OperacionesConsola/
+│   │   │       │   │   ├── 🖼️ Clases básicas.png
+│   │   │       │   │   ├── 🖼️ Definición de funciones.png
+│   │   │       │   │   ├── 🖼️ Funciones anónimas.png
+│   │   │       │   │   ├── 📕 Laboratorio - Funciones Definidas y Anonimas.pdf
+│   │   │       │   │   ├── 🖼️ Manejo con pattern match.png
+│   │   │       │   │   ├── 🖼️ Match (switch avanzado).png
+│   │   │       │   │   ├── 🖼️ Option (manejo de valores nulos).png
+│   │   │       │   │   ├── 🖼️ Programación funcional.png
+│   │   │       │   │   └── 🖼️ Trabajando con colecciones.png
+│   │   │       │   ├── 🔴 Ejemplo01.scala
+│   │   │       │   ├── 🔴 Ejemplo02.scala
+│   │   │       │   ├── 🔴 Ejemplo03.scala
+│   │   │       │   ├── 🔴 FuncionesComplejas.scala
+│   │   │       │   └── 🔴 FuncionesDefinidas.scala
+│   │   │       └── 📁 Semana03/
+│   │   │           ├── 🔴 CombinacionOperaciones.scala
+│   │   │           ├── 🔴 Example01.scala
+│   │   │           ├── 🔴 Example02.scala
+│   │   │           ├── 🔴 Funciones.scala
+│   │   │           ├── 🔴 FuncionesFilter.scala
+│   │   │           ├── 🔴 FuncionesMap.scala
+│   │   │           ├── 📕 Laboratorio - Funciones de Orden Superior.pdf
+│   │   │           ├── 🔴 Practica01.scala
+│   │   │           ├── 🔴 Practica02.scala
+│   │   │           └── 🔴 Practica03.scala
 │   │   └── 📁 test/
-│   │       └── 📁 scala/
-│   │           └── 📁 com/
-│   │               └── 📁 harthik/
-│   │                   └── 📁 scala/
-│   │                       └── 🔴 Main.scala
 │   ├── 📁 target/ 🚫 (auto-hidden)
 │   ├── 🚫 .gitignore
+│   ├── 📖 README.md
 │   └── 📄 build.sbt
 └── 📖 README.md
 ```
