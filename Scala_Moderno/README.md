@@ -23,9 +23,6 @@
 
 ```
 ├── 📁 .git/ 🚫 (auto-hidden)
-├── 📁 .metals/
-│   ├── 📋 metals.log 🚫 (auto-hidden)
-│   └── 🗄️ metals.mv.db
 ├── 📁 Scala_Moderno/
 │   ├── 📁 .bsp/
 │   │   └── 📄 sbt.json
@@ -65,13 +62,20 @@
 │   │   │       │   ├── 🔴 FuncionesComplejas.scala
 │   │   │       │   └── 🔴 FuncionesDefinidas.scala
 │   │   │       └── 📁 Semana03/
+│   │   │           ├── 📁 OperacionesConsola/
+│   │   │           │   ├── 🖼️ Definición de una HOF.png
+│   │   │           │   ├── 🖼️ Funciones Filter.png
+│   │   │           │   ├── 🖼️ Funciones Fold.png
+│   │   │           │   ├── 🖼️ Funciones Map.png
+│   │   │           │   ├── 🖼️ Funciones Reduce.png
+│   │   │           │   ├── 🖼️ Función que devuelve otra función.png
+│   │   │           │   └── 📕 Laboratorio - Funciones de Orden Superior.pdf
 │   │   │           ├── 🔴 CombinacionOperaciones.scala
 │   │   │           ├── 🔴 Example01.scala
 │   │   │           ├── 🔴 Example02.scala
 │   │   │           ├── 🔴 Funciones.scala
 │   │   │           ├── 🔴 FuncionesFilter.scala
 │   │   │           ├── 🔴 FuncionesMap.scala
-│   │   │           ├── 📕 Laboratorio - Funciones de Orden Superior.pdf
 │   │   │           ├── 🔴 Practica01.scala
 │   │   │           ├── 🔴 Practica02.scala
 │   │   │           └── 🔴 Practica03.scala
@@ -82,7 +86,6 @@
 │   └── 📄 build.sbt
 └── 📖 README.md
 ```
-
 ---
 
 ## Instalación de Scala en Terminal 💻
