@@ -61,24 +61,27 @@
 │   │   │       │   ├── 🔴 Ejemplo03.scala
 │   │   │       │   ├── 🔴 FuncionesComplejas.scala
 │   │   │       │   └── 🔴 FuncionesDefinidas.scala
-│   │   │       └── 📁 Semana03/
-│   │   │           ├── 📁 OperacionesConsola/
-│   │   │           │   ├── 🖼️ Definición de una HOF.png
-│   │   │           │   ├── 🖼️ Funciones Filter.png
-│   │   │           │   ├── 🖼️ Funciones Fold.png
-│   │   │           │   ├── 🖼️ Funciones Map.png
-│   │   │           │   ├── 🖼️ Funciones Reduce.png
-│   │   │           │   ├── 🖼️ Función que devuelve otra función.png
-│   │   │           │   └── 📕 Laboratorio - Funciones de Orden Superior.pdf
-│   │   │           ├── 🔴 CombinacionOperaciones.scala
-│   │   │           ├── 🔴 Example01.scala
-│   │   │           ├── 🔴 Example02.scala
-│   │   │           ├── 🔴 Funciones.scala
-│   │   │           ├── 🔴 FuncionesFilter.scala
-│   │   │           ├── 🔴 FuncionesMap.scala
-│   │   │           ├── 🔴 Practica01.scala
-│   │   │           ├── 🔴 Practica02.scala
-│   │   │           └── 🔴 Practica03.scala
+│   │   │       ├── 📁 Semana03/
+│   │   │       │   ├── 📁 OperacionesConsola/
+│   │   │       │   │   ├── 🖼️ Definición de una HOF.png
+│   │   │       │   │   ├── 🖼️ Funciones Filter.png
+│   │   │       │   │   ├── 🖼️ Funciones Fold.png
+│   │   │       │   │   ├── 🖼️ Funciones Map.png
+│   │   │       │   │   ├── 🖼️ Funciones Reduce.png
+│   │   │       │   │   ├── 🖼️ Función que devuelve otra función.png
+│   │   │       │   │   └── 📕 Laboratorio - Funciones de Orden Superior.pdf
+│   │   │       │   ├── 🔴 CombinacionOperaciones.scala
+│   │   │       │   ├── 🔴 Example01.scala
+│   │   │       │   ├── 🔴 Example02.scala
+│   │   │       │   ├── 🔴 Funciones.scala
+│   │   │       │   ├── 🔴 FuncionesFilter.scala
+│   │   │       │   ├── 🔴 FuncionesMap.scala
+│   │   │       │   ├── 🔴 Practica01.scala
+│   │   │       │   ├── 🔴 Practica02.scala
+│   │   │       │   └── 🔴 Practica03.scala
+│   │   │       └── 📁 Semana04/
+│   │   │           ├── 📄 Examen - PC1.docx
+│   │   │           └── 📕 Examen - PC1.pdf
 │   │   └── 📁 test/
 │   ├── 📁 target/ 🚫 (auto-hidden)
 │   ├── 🚫 .gitignore
