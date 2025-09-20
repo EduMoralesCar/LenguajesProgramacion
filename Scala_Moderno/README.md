@@ -79,9 +79,16 @@
 │   │   │       │   ├── 🔴 Practica01.scala
 │   │   │       │   ├── 🔴 Practica02.scala
 │   │   │       │   └── 🔴 Practica03.scala
-│   │   │       └── 📁 Semana04/
-│   │   │           ├── 📄 Examen - PC1.docx
-│   │   │           └── 📕 Examen - PC1.pdf
+│   │   │       ├── 📁 Semana04/
+│   │   │       │   ├── 📄 Examen - PC1.docx
+│   │   │       │   └── 📕 Examen - PC1.pdf
+│   │   │       └── 📁 Semana05/
+│   │   │           ├── 🔴 AmbitoEncapsulamiento.scala
+│   │   │           ├── 🔴 ComposicionFuncional_MultiplesFunciones.scala
+│   │   │           ├── 🔴 FlatMap_GenerarCombinaciones.scala
+│   │   │           ├── 🔴 FuncionGenerica.scala
+│   │   │           ├── 🔴 FuncionesOrdenSuperior_MultiplesTransformaciones.scala
+│   │   │           └── 🔴 TransformacionEstructurasComplejas.scala
 │   │   └── 📁 test/
 │   ├── 📁 target/ 🚫 (auto-hidden)
 │   ├── 🚫 .gitignore
