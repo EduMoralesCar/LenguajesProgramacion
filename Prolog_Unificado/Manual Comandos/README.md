@@ -1,6 +1,7 @@
 # EJecución
 > Abre la terminal integrada
 ```bash
+# Inicializamos Prolog
 swipl
 
 # Cargar tu archivo
