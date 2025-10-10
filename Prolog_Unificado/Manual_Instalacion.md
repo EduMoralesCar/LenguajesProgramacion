@@ -1,3 +1,47 @@
+# Prolog
+
+<p align="center">
+<img src="https://www.swi-prolog.org/icons/swipl.png" alt="SWI Prolog Logo" width="120"/>
+</p>
+
+<h2 align="center">Prolog: Programación Lógica y Declarativa 🦉</h2>
+
+---
+
+## ¿Qué es Prolog? 🤔
+
+**Prolog** es un lenguaje de programación lógica, ampliamente utilizado en inteligencia artificial, sistemas expertos y procesamiento de lenguaje natural. Su enfoque está en la representación de conocimientos y el razonamiento automático mediante hechos y reglas.
+
+- 🔎 **Basado en lógica y relaciones**
+- 🧠 **Ideal para IA, sistemas expertos, y resolución de problemas**
+- 📋 **Sintaxis declarativa: describe qué debe cumplirse, no cómo lograrlo**
+- 🔗 **Uso en aplicaciones como chatbots, motores de inferencia y análisis de datos**
+- 🌍 **Comunidad activa y documentación extensa**
+
+---
+
+
+## Estructura del Proyecto 🗂️
+```
+├── 📁 Manual Comandos/
+│   ├── 🐪 01-OperadoresLogicos.pl
+│   ├── 🐪 02-OperadoresCompararion.pl
+│   ├── 🐪 03-aritmetica.pl
+│   ├── 🐪 04-Lista.pl
+│   ├── 🐪 05-EstructuraDatos.pl
+│   ├── 🐪 06-ControlFlujo.pl
+│   └── 📖 README.md
+├── 📁 Unificacion/
+│   ├── 🐪 01-app.pl
+│   ├── 🐪 02-app.pl
+│   ├── 🐪 03-app.pl
+│   ├── 🐪 04-app.pl
+│   ├── 📖 README.md
+│   └── 📕 Semana09 - Tarea PA.pdf
+└── 📝 Manual_Instalacion.md
+```
+---
+
 # Manual de Instalación de Prolog
 
 ## 1. Instalación de SWI-Prolog en Windows
