@@ -40,7 +40,7 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 - 🧠 Ideal para aplicaciones de IA y sistemas expertos
 - 📋 Sintaxis declarativa
 
-👉 Para información detallada, ejemplos y recursos sobre Prolog, visita el archivo [`Prolog_Unificado/README.md`](./Prolog_Unificado/README.md).
+👉 Para información detallada, ejemplos y recursos sobre Prolog, visita el archivo [`Prolog_Unificado/README.md`](./Prolog_Unificado/Manual_Instalacion.md).
 
 ---
 
