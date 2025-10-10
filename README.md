@@ -27,9 +27,8 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Prolog_logo.png" alt="Prolog Logo" width="120"/>
+<img src="https://www.swi-prolog.org/icons/swipl.png" alt="SWI Prolog Logo" width="120"/>
 </p>
-
 <h2 align="center">Prolog</h2>
 
 ---
