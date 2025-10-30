@@ -59,7 +59,7 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 - 🌐 Usado en ciencia de datos, web, automatización y más
 - 📦 Gran ecosistema de librerías
 
-👉 La sección de Python estará disponible pronto. ¡Mantente atento para más actualizaciones!
+👉 Para información detallada sobre Python, visita el archivo [`README.md`](https://github.com/EduMoralesCar/Python_TOTAL/blob/main/README.md) del repositorio Python_TOTAL.
 
 ---
 
