@@ -53,7 +53,7 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 ---
 
 > **Python** es un lenguaje multiparadigma, conocido por su simplicidad y versatilidad.  
-> Próximamente encontrarás aquí prácticas y recursos para aprender Python desde cero.
+> Aquí encontrarás prácticas y recursos para aprender Python desde cero.
 
 - 🐍 Sintaxis simple y clara
 - 🌐 Usado en ciencia de datos, web, automatización y más
