@@ -1,4 +1,5 @@
-<p align="center"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/930c92ad-aca5-45c9-ba0e-5b371487b6b0" /> </p>
+<p align="center"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4496a7c1-9d3a-4328-bf0e-42ebda481ae2" />
+</p>
 
 # <p align="center">Lenguajes de Programación</p>
 
@@ -16,6 +17,7 @@
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+---
 ¡Bienvenido al repositorio de **Lenguajes de Programación**! 🚀  
 Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 
