@@ -1,8 +1,6 @@
 <p align="center"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4496a7c1-9d3a-4328-bf0e-42ebda481ae2" />
 </p>
 
-# <p align="center">Lenguajes de Programación</p>
-
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&width=800&lines=Lenguajes+de+Programación+con+Python+%7C+2025)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
