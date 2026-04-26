@@ -45,7 +45,6 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 <p align="center">
 <img src="https://www.swi-prolog.org/icons/swipl.png" alt="SWI Prolog Logo" width="120"/>
 </p>
-<h2 align="center">Prolog</h2>
 
 ---
 
@@ -63,8 +62,6 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="120"/>
 </p>
-
-<h2 align="center">Python</h2>
 
 ---
 
