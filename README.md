@@ -15,7 +15,7 @@
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-#
+---
 
 ¡Bienvenido al repositorio de **Lenguajes de Programación**! 🚀  
 Aquí encontrarás materiales y ejemplos de distintos lenguajes.
