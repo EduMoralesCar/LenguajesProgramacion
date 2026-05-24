@@ -63,7 +63,7 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="120"/>
 </p>
 
----
+#
 
 > **Python** es un lenguaje multiparadigma, conocido por su simplicidad y versatilidad.  
 > Aquí encontrarás prácticas y recursos para aprender Python desde cero.
