@@ -46,7 +46,7 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 <img src="https://www.swi-prolog.org/icons/swipl.png" alt="SWI Prolog Logo" width="120"/>
 </p>
 
----
+#
 
 > **Prolog** es un lenguaje lógico orientado a la inteligencia artificial y la resolución de problemas mediante reglas y hechos.  
 > Es ampliamente usado en sistemas expertos, procesamiento de lenguaje natural y razonamiento automático.
