@@ -29,7 +29,7 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 </p>
 
 
----
+#
 
 > **Scala** es un lenguaje moderno que combina programación orientada a objetos y funcional.  
 > Es ideal para aplicaciones escalables, sistemas distribuidos y análisis de datos.
