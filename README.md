@@ -22,7 +22,7 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 
 > El curso está organizado por secciones, cada una dedicada a un lenguaje diferente:
 
-#
+---
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala Logo" width="120"/>
@@ -76,4 +76,3 @@ Aquí encontrarás materiales y ejemplos de distintos lenguajes.
 
 ---
 
-_Más lenguajes y secciones próximamente... ¡Mantente atento!_ 👀
